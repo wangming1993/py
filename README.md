@@ -17,4 +17,9 @@ source myenv/bin/activate
 pip install --upgrade pip
 
 pip install scikit-image
+
+pip install opencv_python
 ```
+
+> reference:
+> - https://scikit-image.org/download.html
